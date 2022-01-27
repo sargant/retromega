@@ -187,6 +187,7 @@ FocusScope {
         "segacd"      : "#C85173",
         "dreamcast"   : "#2387FF",
         "psp"         : "#4E0B9C",
+        "atari2600"   : "#C2472F",
         "default"     : "#2387FF"
     }
     
@@ -213,7 +214,8 @@ FocusScope {
         "pcengine" : "NEC",
         "tg16"     : "NEC",
         "psx"      : "Sony",
-        "psp"      : "Sony"
+        "psp"      : "Sony",
+        "atari2600": "Atari"
     }
 
     property var layoutScreen : {
